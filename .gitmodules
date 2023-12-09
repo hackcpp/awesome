@@ -1,0 +1,3 @@
+[submodule "checkly/gadero"]
+	path = checkly/gadero
+	url = git@github.com:lucas-hliu/checkly_gadero.git
