@@ -1,3 +1,6 @@
 [submodule "checkly/gadero"]
 	path = checkly/gadero
 	url = git@github.com:lucas-hliu/checkly_gadero.git
+[submodule "hexo-site"]
+	path = hexo-site
+	url = git@github.com:lucas-hliu/hexo-site.git
