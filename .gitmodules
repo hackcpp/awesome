@@ -7,3 +7,9 @@
 [submodule "python"]
 	path = python
 	url = git@github.com:lucas-hliu/python.git
+[submodule "cplusplus"]
+	path = cplusplus
+	url = git@github.com:lucas-hliu/cplusplus.git
+[submodule "personalsite"]
+	path = personalsite
+	url = git@github.com:lucas-hliu/personalsite.git
