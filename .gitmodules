@@ -1,15 +1,1 @@
-[submodule "checkly/gadero"]
-	path = checkly/gadero
-	url = git@github.com:lucas-hliu/checkly_gadero.git
-[submodule "hexo-site"]
-	path = hexo-site
-	url = git@github.com:lucas-hliu/hexo-site.git
-[submodule "python"]
-	path = python
-	url = git@github.com:lucas-hliu/python.git
-[submodule "cplusplus"]
-	path = cplusplus
-	url = git@github.com:lucas-hliu/cplusplus.git
-[submodule "personalsite"]
-	path = personalsite
-	url = git@github.com:lucas-hliu/personalsite.git
+
